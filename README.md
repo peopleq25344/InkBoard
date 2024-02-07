@@ -25,7 +25,7 @@
   <p>If you have any questions or need assistance with Ink Board, our customer support team is here to help. Contact us by the email "legendRepo@outlook.com".</p>
 
   <footer>
-    <p>By Peopleq25344</p>
+    <p>By Peopleq2534</p>
     <p>Email legendlc@outlook.com</p>
   </footer>
 </body>
