@@ -22,7 +22,7 @@
   <p>Ink Board is available for both Windows and Linux devices, making it accessible to a wide range of users.</p>
 
   <h2>Customer Support:</h2>
-  <p>If you have any questions or need assistance with Ink Board, our customer support team is here to help. Contact us by the email "legendRepo@outlook.com".</p>
+  <p>If you have any questions or need assistance with Ink Board, contact us by the email "legendRepo@outlook.com".</p>
 
   <footer>
     <p>By Peopleq2534</p>
