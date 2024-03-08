@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Ink Board - Draw Board Application</title>
+  <h3>Ink Board - Draw Board Application</h3>
 </head>
 <body>
-  <h1>Welcome to Ink Board - Draw Board Application</h1>
+  <h3>Welcome to Ink Board - Draw Board Application</h3>
   <p>Ink Board is a draw board application that allows users to create and edit drawings easily. With a variety of features, Ink Board is perfect for teachers, students, and anyone who are going to share their idea and points on meetings.</p>
 
   <h2>Key Features:</h2>
